@@ -2,3 +2,6 @@
 	path = cores/GameBoy-Online
 	url = https://github.com/gameplaycolor/GameBoy-Online.git
 
+[submodule "cores/gbajs"]
+	path = cores/gbajs
+	url = https://github.com/endrift/gbajs.git
